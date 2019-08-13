@@ -1,0 +1,22 @@
+{
+  "name": "no_sleepy",
+  "version": "1.0.0",
+  "description": "A simple nodejs cli utility to keep your computer from falling asleep if domain settings cannot be changed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akoutmos/no_sleepy.git"
+  },
+  "author": "Alex Koutmos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akoutmos/no_sleepy/issues"
+  },
+  "homepage": "https://github.com/akoutmos/no_sleepy#readme",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  }
+}
